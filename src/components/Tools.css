@@ -1,0 +1,28 @@
+.tools-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .tools-controls {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 0rem;
+    margin-bottom: 3rem;
+  }
+  .tools-controls select,
+  .tools-controls input[type="text"],
+  .tools-controls button {
+    padding: 0.1rem 0.5rem;
+    height: 32px;
+    border-radius: 4px; 
+  }
+
+  .lead {
+    font-family: inherit; 
+  }
+  
+  .tools-controls input[type="text"]::placeholder {
+    font-family: inherit; 
+  }
