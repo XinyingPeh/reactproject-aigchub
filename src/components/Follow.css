@@ -1,0 +1,46 @@
+.header-controls {
+  gap: 1rem;
+  align-items: center;
+  margin-left: 30%;
+}
+.follow-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 6rem;
+}
+
+.follow-header {
+  margin-bottom: 3rem;
+}
+
+.follow-header h1,
+.follow-header p {
+  margin: 0;
+}
+
+.follow-controls {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.follow-controls input[type="text"] {
+  width: 300px;
+  padding: 0.1rem 0.5rem;
+  height: 32px;
+  border-radius: 4px;
+}
+
+.follow-controls button {
+  padding: 0.1rem 0.5rem;
+  height: 32px;
+  border-radius: 4px;
+}
+
+.follow-spinner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
