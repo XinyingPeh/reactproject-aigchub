@@ -1,0 +1,64 @@
+.follow-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 55%;
+  margin: 0 auto;
+  margin-bottom: 16px;
+  border-radius: 8px;
+  padding: 16px;
+  border: none;
+  font-size: 14px;
+}
+
+.follow-details {
+  width: 100%;
+}
+
+.follow-details h3 {
+  font-size: 23px;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.follow-details p:last-child {
+  margin-bottom: 0;
+}
+
+.position,
+.tag {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  margin-right: 0.5rem;
+  background-color: lightgray;
+  color: #333;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.follow-details p {
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+
+.follow-details .lead {
+  font-size: 14px;
+}
+
+.follow-card .follow-details {
+  margin: 0;
+}
+
+.follow-card .follow-details p:last-child {
+  margin-bottom: 10px;
+}
+
+.follow-details .btn {
+  font-size: 14px;
+}
+
+.text-justify {
+  text-align: justify;
+}
