@@ -17,6 +17,11 @@ Key Features:
 - JavaScript
 - HTML
 - CSS
+- Airtable (Self create database, fetched using personal token access read only)
+- Firebase (For form response collection purpose)
+- Bootstrap
+- MUI
+- Vercel
 
 
 **Wireframes**
@@ -27,25 +32,12 @@ Key Features:
 <img width="762" alt="image" src="https://github.com/XinyingPeh/aigchub-react-project/assets/112844279/92397233-6c7e-4c0f-abd4-905bcad912f9">
 
 
-## User Stories
-
-As a content creator, I want to explore a diverse range of AI-powered tools available on the AIGC Hub to automate and enhance my content generation process. I can easily discover AI-based applications for tasks such as text generation, image recognition, and data analysis, enabling me to create engaging and high-quality content efficiently.
-
-As a researcher, I want to stay up-to-date with the latest advancements in AI. The AIGC Hub provides me with access to valuable resources, including articles, research papers, and case studies, allowing me to explore cutting-edge AI trends, methodologies, and breakthroughs. With this knowledge, I can incorporate AI techniques into my research and stay at the forefront of my field.
-
-As a student, I want to leverage AI technology to streamline my studies and improve my learning outcomes. The AIGC Hub offers a wide selection of AI tools specifically designed for educational purposes. I can use AI-powered platforms for language learning, problem-solving, and data visualization, enhancing my understanding and retention of complex subjects.
-
-As an AI enthusiast, I want to connect with influential AI experts and enthusiasts who share valuable insights and innovations on social media. The AIGC Hub features a curated list of Twitter accounts belonging to AI company experts and thought leaders. By following these accounts, I can stay informed about the latest trends, engage in discussions, and broaden my AI network.
-
-Overall, the AIGC Hub serves as a central hub for discovering, exploring, and utilizing AI-generated content. Whether you are a content creator, researcher, student, or AI enthusiast, the platform empowers you to harness the potential of AI technology and integrate it seamlessly into your work, studies, and daily life.
-
-
 **User will be able to:**
 
 - Sort list by rating
 - Filter list by tags
 - Search keywords
-- Submit a form response
+- Submit a form response to contact web owner
 
 **Planning and Development Process**
 
@@ -70,11 +62,3 @@ Deployment: Once the development, I deployed the application using Vercel. This 
 - Responsive Design: While I strived to make the application responsive and accessible across different devices and screen sizes, there might be certain edge cases or specific devices where the design could be further enhanced. Achieving a seamless user experience on all platforms is an ongoing process.
 - Error Handling: Although I have implemented error handling mechanisms throughout the application, there might still be scenarios or specific error cases that have not been fully addressed. Enhancing the error handling and providing meaningful error messages to the users is an area that requires further attention.
 - Cross-Browser Compatibility: While I have tested the application on multiple browsers, there might be compatibility issues or browser-specific quirks that are yet to be identified. Ensuring consistent behavior and appearance across different browsers is an aspect that needs continued monitoring and refinement.
-
-
-**APIs Used**
-
-- Airtable (Self create database, fetched using personal token access read only)
-- Firebase (For form response collection purpose)
-
-
