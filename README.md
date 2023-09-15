@@ -2,16 +2,17 @@
 
 The AI-Generated Content (AIGC) Hub is a comprehensive website that brings together a curated collection of products, services, and resources centered around AI technology. In this fast-paced era of technological advancements, AI is becoming increasingly ubiquitous, revolutionizing various aspects of our lives. With the AIGC Hub, you gain access to a wide array of applications and tools that leverage AI to enhance your work, studies, and daily activities.
 
-## Description
+### Live Site
 
-A description of your project. Explain what is the project about and what is the use for it.
+https://reactproject-aigchub.vercel.app/
+(Best view on web browser)
 
-Key Features:
+### Key Features
 - Explore Cutting-Edge AI Tools: Discover an extensive range of AI-powered applications and tools designed to streamline tasks and boost productivity across different domains. From content creation to data analysis, these tools leverage AI algorithms to automate and augment various processes.
 - Stay Updated with AI Trends: Stay ahead of the curve by accessing valuable resources and insights on the latest AI trends, methodologies, and breakthroughs. The AIGC Hub provides a curated selection of articles, research papers, and case studies that delve into the fascinating world of AI.
 - Follow Influential AI Experts: Gain inspiration and knowledge from the industry's leading minds. The website features a handpicked list of noteworthy Twitter accounts belonging to AI company experts and enthusiasts. By following these thought leaders, you can stay up-to-date with their perspectives, insights, and innovations in the AI landscape.
 
-## Technical Used
+### Technical Used
 
 - React (useState, setStates, useEffect, custom hook)
 - JavaScript
